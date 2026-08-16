@@ -5,3 +5,5 @@ HTML
 CSS
 Project
 This project was created to practice building a web page using HTML and CSS.
+
+[view the website]https://nada-ramadan-design.github.io/nada-/
